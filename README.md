@@ -12,7 +12,9 @@ Universities worldwide provide Bachelor degrees in Computer Science specialized 
     IT Security  
     
     
-    This can lead to confusions, especially to students who prepare to become tech experts. Such is the case of App development vs. Software programming. Are these disciplines the same thing and if not, how are they different?
+    This can lead to confusions, especially to students who prepare to become tech experts. 
+    Such is the case of App development vs. Software programming. 
+    Are these disciplines the same thing and if not, how are they different?
 
 The easy answer is: App developers create mobile and computer apps and software programmers create, test programs or systems and fix bugs if and when they encounter them. But there’s more to it. 
 
@@ -38,7 +40,8 @@ What do app developers and software programmers have in common? They should both
     ability to work under pressure
     attention to detail
 
-App development can focus more on design, user experience and sometimes entertaining features, while software programming has as main target finding and introducing the right codes and making sure the standard of quality is met.
+App development can focus more on design, user experience and sometimes entertaining features, 
+while software programming has as main target finding and introducing the right codes and making sure the standard of quality is met.
 
 Here are the main courses you can expect from a Bachelor’s in App Development vs. one in Software programming: 
 
